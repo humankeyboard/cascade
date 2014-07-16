@@ -1,0 +1,15 @@
+[Source]
+server: imap.gmail.com
+username: me@gmail.com
+password: xyz
+folder: "[Gmail]/All Mail"
+
+[Destination]
+server: imap.gmail.com
+username: me@myapps.com
+password: xyz
+folder: "Copied"
+
+[Dates]
+after: 1-Apr-2004
+before: 29-Dec-2014
