@@ -24,6 +24,13 @@ after: 1-Apr-2004
 before: 29-Dec-2014
 ```
 
+## Copy e-mails
+
+When you create the configuration file under your home folder, run this;
+```
+cascade -c
+```
+
 ## Help
 
 ```
