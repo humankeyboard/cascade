@@ -1,8 +1,8 @@
-* Cascade
+# Cascade
 
 Copies e-mails between IMAP servers. Works for migrating / copying e-mails between gmail accounts.
 
-** Configuration File
+## Configuration File
 
 cascade will look for ```cascade.conf``` under home folder. You can also pass it on the command line.
 
@@ -24,7 +24,7 @@ after: 1-Apr-2004
 before: 29-Dec-2014
 ```
 
-** Help
+## Help
 
 ```
 cascade -h
